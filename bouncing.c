@@ -1,3 +1,5 @@
+//Created by Lakshika Udakandage
+//This will export a file sequence
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
